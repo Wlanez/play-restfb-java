@@ -1,8 +1,8 @@
 Sample Facebook Canvas Application using Play Framework and restfb
 ==================================================================
 
-+   Play Framework v.2.3.4
-+   restfb v.1.6.16
++   Play Framework v.2.4.0
++   restfb v.1.11.0
 +   Facebook Javascript SDK
 
 Configuration
